@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "彩票", "彩票\彩票.csproj", "{4CE0F93A-8FD2-4684-A00A-85A6440268AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "彩票2", "彩票2\彩票2.csproj", "{04AE1837-21DF-4FA0-9A35-73FB55BDE7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE0F93A-8FD2-4684-A00A-85A6440268AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE0F93A-8FD2-4684-A00A-85A6440268AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE0F93A-8FD2-4684-A00A-85A6440268AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE0F93A-8FD2-4684-A00A-85A6440268AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AE1837-21DF-4FA0-9A35-73FB55BDE7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AE1837-21DF-4FA0-9A35-73FB55BDE7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AE1837-21DF-4FA0-9A35-73FB55BDE7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AE1837-21DF-4FA0-9A35-73FB55BDE7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票\bin\Release\彩票.exe.config
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票\bin\Release\彩票.exe
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票\bin\Release\彩票.pdb
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票\obj\Release\彩票.Form1.resources
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票\obj\Release\彩票.Properties.Resources.resources
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票\obj\Release\彩票.csproj.GenerateResource.Cache
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票\obj\Release\彩票.exe
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票\obj\Release\彩票.pdb

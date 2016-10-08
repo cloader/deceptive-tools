@@ -1,0 +1,10 @@
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票2\bin\Release\彩票2.exe.config
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票2\bin\Release\彩票2.exe
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票2\bin\Release\彩票2.pdb
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票2\bin\Release\CSkin.dll
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票2\bin\Release\CSkin.xml
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票2\obj\Release\彩票2.Form1.resources
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票2\obj\Release\彩票2.Properties.Resources.resources
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票2\obj\Release\彩票2.csproj.GenerateResource.Cache
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票2\obj\Release\彩票2.exe
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票2\obj\Release\彩票2.pdb
