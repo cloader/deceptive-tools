@@ -8,3 +8,4 @@ D:\Code_IDE\Visual Studio Workspace\彩票\彩票2\obj\Release\彩票2.Propertie
 D:\Code_IDE\Visual Studio Workspace\彩票\彩票2\obj\Release\彩票2.csproj.GenerateResource.Cache
 D:\Code_IDE\Visual Studio Workspace\彩票\彩票2\obj\Release\彩票2.exe
 D:\Code_IDE\Visual Studio Workspace\彩票\彩票2\obj\Release\彩票2.pdb
+D:\Code_IDE\Visual Studio Workspace\彩票\彩票2\obj\Release\彩票2.csprojResolveAssemblyReference.cache

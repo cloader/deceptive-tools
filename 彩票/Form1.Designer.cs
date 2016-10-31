@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button2 = new System.Windows.Forms.Button();
             this.result_textbox = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.checkBox30 = new System.Windows.Forms.CheckBox();
@@ -147,7 +148,6 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.label8 = new System.Windows.Forms.Label();
             this.log_textbox = new System.Windows.Forms.TextBox();
-            this.button2 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.groupBox3.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -210,6 +210,15 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(858, 536);
             this.panel1.TabIndex = 1;
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(556, 352);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(183, 23);
+            this.button2.TabIndex = 114;
+            this.button2.Text = "打印";
+            this.button2.UseVisualStyleBackColor = true;
             // 
             // result_textbox
             // 
@@ -722,7 +731,7 @@
             this.groupBox3.Size = new System.Drawing.Size(305, 141);
             this.groupBox3.TabIndex = 68;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "胆号";
+            this.groupBox3.Text = "条件";
             // 
             // b4
             // 
@@ -1531,15 +1540,6 @@
             this.log_textbox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.log_textbox.Size = new System.Drawing.Size(242, 506);
             this.log_textbox.TabIndex = 0;
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(556, 352);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(183, 23);
-            this.button2.TabIndex = 114;
-            this.button2.Text = "打印";
-            this.button2.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
